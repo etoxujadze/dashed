@@ -23,8 +23,10 @@ input {
     margin-top: 10px;
     font-family: "inter";
     border: none;
+
     
 }
+
 .no {
     width: 46px;
     height: 19px;
@@ -75,14 +77,16 @@ input {
     border-radius: 4px;
     color: #DEDEDE;
     font-family: "inter";
-    vertical-align: top;
-}
+    vertical-align: top; }
 .any {
     border: 1px solid #DEDEDE;
     width: 315px;
     height: 115px;
     border: none;
-    vertical-align: top;
+    background-color: #A9A9A9;
+    font-family: "inter";
+
+    
 }
 .num {
     width: 315px;

@@ -39,6 +39,7 @@ input {
 }
 ::placeholder {
     color: #FFD43A;
+    padding-left: 10px;
     
 }
 .yes {
